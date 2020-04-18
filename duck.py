@@ -22,8 +22,8 @@ s2=Student(80,70)
 s3=s1+s2
 print(s3.m2)
 if (s1>s2):
-    print('S1 Wins')
+    print('HELLO!!S1 Has Greater Mark')
 else:
-    print('S2 Wins')
+    print('HELLO!!S2 Has Greater Marks')
 
     
